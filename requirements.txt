@@ -1,0 +1,13 @@
+# Python dependencies for Rock-Paper-Scissors-Plus Game Referee
+
+# Note: This project uses pure Python with no external dependencies
+# Google ADK is conceptual - the implementation uses standard Python
+# to demonstrate the architecture and tool-based design
+
+# If you were using actual Google ADK, you would add:
+# google-adk>=0.1.0
+
+# For development/testing (optional):
+# pytest>=7.0.0
+# black>=22.0.0
+# mypy>=0.950
